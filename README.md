@@ -13,6 +13,17 @@ Procedure for getting models of robot kinematics that are appropriate for robot 
 Using an **_Arduino Mega (2560)_** as a microcontroller & Serial Connection with **_V-REP_** to simulate the Movement Instantaneously 
 
 
+**-Items Used:**
+ 
+    1- Arduino Mega (2560) & cable.
+    2- USB Host Sheild.
+    3- 2x Servo SG90 (1.2 Kg/cm).
+    4- 2x Servo FS5103B (3.2 Kg/cm).
+    5- 2 Voltage Regulator L7805C.
+    6- a 12V DC Adapter.
+    7- Wires (Jumpers).
+    8- USB cable And A PS4 Controller.
+    
 
 ## Team members:
     • Mohamed Medhat Ghareeb
