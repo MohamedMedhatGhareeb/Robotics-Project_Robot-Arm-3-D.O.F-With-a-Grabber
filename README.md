@@ -1,4 +1,4 @@
-# Robotics Project_Robot Arm 3-D.O.F With a Gribber
+# Robotics Project_Robot Arm 3-D.O.F With a Grabber
 **-Designing a suitable capable Robot to withstand the Torques and Momentums.**
 
 Procedure for getting models of robot kinematics that are appropriate for robot control design. The procedure consists of the following steps:
