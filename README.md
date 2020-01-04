@@ -24,11 +24,4 @@ Using an **_Arduino Mega (2560)_** as a microcontroller & Serial Connection with
     7- Wires (Jumpers).
     8- USB cable And A PS4 Controller.
     
-
-## Team members:
-    • Mohamed Medhat Ghareeb
-    • Mohamed Selim Sayid
-    • Mahmoud Tarik Shosha 
-    • Mostafa Mahmoud Marzouk
-    • Mostafa Adel Mohamed
     
